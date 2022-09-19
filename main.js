@@ -1,5 +1,3 @@
-console.log("hi");
-
 // IPO Brightness Calculator By Oliver Lo
 
 // Input
